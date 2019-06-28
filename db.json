@@ -1,0 +1,158 @@
+{
+  "hogwarts": [
+    {
+      "id": 1,
+      "name": "Harry Potter",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/harry.jpg",
+      "likes": 100
+    },
+    {
+      "id": 2,
+      "name": "Hermione Granger",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/hermione.jpeg",
+      "likes": 35
+    },
+    {
+      "id": 3,
+      "name": "Ron Weasley",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/ron.jpg",
+      "likes": 8
+    },
+    {
+      "id": 4,
+      "name": "Draco Malfoy",
+      "house": "Slytherin",
+      "image": "http://hp-api.herokuapp.com/images/draco.jpg",
+      "likes": 34
+    },
+    {
+      "id": 5,
+      "name": "Minerva McGonagall",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg",
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "name": "Cedric Diggory",
+      "house": "Hufflepuff",
+      "image": "http://hp-api.herokuapp.com/images/cedric.png",
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "name": "Cho Chang",
+      "house": "Ravenclaw",
+      "image": "http://hp-api.herokuapp.com/images/cho.jpg",
+      "likes": 10
+    },
+    {
+      "id": 8,
+      "name": "Severus Snape",
+      "house": "Slytherin",
+      "image": "http://hp-api.herokuapp.com/images/snape.jpg",
+      "likes": 7
+    },
+    {
+      "id": 9,
+      "name": "Rubeus Hagrid",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/hagrid.png",
+      "likes": 0
+    },
+    {
+      "id": 10,
+      "name": "Neville Longbottom",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/neville.jpg",
+      "likes": 0
+    },
+    {
+      "id": 11,
+      "name": "Luna Lovegood",
+      "house": "Ravenclaw",
+      "image": "http://hp-api.herokuapp.com/images/luna.jpg",
+      "likes": 2
+    },
+    {
+      "id": 12,
+      "name": "Ginny Weasley",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/ginny.jpg",
+      "likes": 0
+    },
+    {
+      "id": 13,
+      "name": "Sirius Black",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/sirius.JPG",
+      "likes": 0
+    },
+    {
+      "id": 14,
+      "name": "Remus Lupin",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/lupin.jpg",
+      "likes": 0
+    },
+    {
+      "id": 15,
+      "name": "Arthur Weasley",
+      "house": "Gryffindor",
+      "image": "http://hp-api.herokuapp.com/images/arthur.jpg",
+      "likes": 0
+    },
+    {
+      "id": 16,
+      "name": "Bellatrix Lestrange",
+      "house": "Slytherin",
+      "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg",
+      "likes": 0
+    },
+    {
+      "id": 17,
+      "name": "Lord Voldemort",
+      "house": "Slytherin",
+      "image": "http://hp-api.herokuapp.com/images/voldemort.jpg",
+      "likes": 0
+    },
+    {
+      "id": 18,
+      "name": "Horace Slughorn",
+      "house": "Slytherin",
+      "image": "http://hp-api.herokuapp.com/images/slughorn.JPG",
+      "likes": 0
+    },
+    {
+      "id": 19,
+      "name": "Kingsley Shacklebolt",
+      "house": "",
+      "image": "http://hp-api.herokuapp.com/images/kingsley.jpg",
+      "likes": 0
+    },
+    {
+      "id": 20,
+      "name": "Dolores Umbridge",
+      "house": "Slytherin",
+      "image": "https://i.pinimg.com/originals/b5/7d/51/b57d5184e0d5252718d6c2d2486758ed.jpg",
+      "likes": 0
+    },
+    {
+      "id": 24,
+      "name": "Mrs Norris",
+      "house": "",
+      "image": "http://hp-api.herokuapp.com/images/norris.JPG",
+      "likes": 1
+    },
+    {
+      "id": 25,
+      "name": "Argus Filch",
+      "house": "",
+      "image": "http://hp-api.herokuapp.com/images/filch.jpg",
+      "likes": 5
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Hogwarts</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Cinzel:400,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <form class="add-wizard-form" style="">
+        <input
+          type="text"
+          name="name"
+          value=""
+          placeholder="Enter wizards name..."
+          class="input-text"
+        />
+        <br />
+        <input
+          type="text"
+          name="image"
+          value=""
+          placeholder="Enter wizards photo..."
+          class="input-text"
+        />
+        <br />
+        <input
+          type="submit"
+          name="submit"
+          value="Admit to Hogwarts"
+          class="submit"
+        />
+      </form>
+    </div>
+
+    <div class="wizard-image">
+      <img
+        src="https://vignette.wikia.nocookie.net/harrypotter/images/0/00/Slytherin_ClearBG.png/revision/latest/scale-to-width-down/350?cb=20161020182557"
+        alt="Slytherin House Crest"
+        class="slytherinCrest"
+      />
+      <img
+        src="https://vignette.wikia.nocookie.net/harrypotter/images/4/4e/RavenclawCrest.png/revision/latest/scale-to-width-down/350?cb=20161020182442"
+        alt="Ravenclaw House Crest"
+        class="ravenclawCrest"
+      />
+      <img
+        src="https://cdn140.picsart.com/278107148011211.png?r1024x1024"
+        alt="Platform 9 3/4"
+        id="new-wizard"
+      />
+      <img
+        src="https://vignette.wikia.nocookie.net/harrypotter/images/0/06/Hufflepuff_ClearBG.png/revision/latest?cb=20161020182518"
+        alt="Hufflepuff House Crest"
+        class="hufflepuffCrest"
+      />
+      <img
+        src="https://vignette.wikia.nocookie.net/harrypotter/images/b/b1/Gryffindor_ClearBG.png/revision/latest/scale-to-width-down/350?cb=20190222162949"
+        alt="Gryffindor House Crest"
+        class="gryffindorCrest"
+      />
+    </div>
+    <div class="filterForm">
+      <select
+        id="sort-dropdown"
+        name="select-sort"
+        onchange="sortPostData(this.value)"
+      >
+        <option selected="selected" value="Sort By:" disabled>Sort By:</option>
+        <option value="House">House</option>
+        <option value="Likes">Popularity</option>
+      </select>
+    </div>
+
+    <div class="theGreatHall"></div>
+
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
